@@ -6,4 +6,5 @@
  Until now you have a procedurally maze generator algorithm that I created, a player controller script and some 3d models.
 
  Demo:
+ 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/t7RZavjxgNw/0.jpg)](https://www.youtube.com/watch?v=t7RZavjxgNw)
